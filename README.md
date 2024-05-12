@@ -4,7 +4,7 @@
 
 ## Description
 
-WatchConnoisseur is a compact API I developed for a recruitment task at one of my target companies. It supports JWT authentication and Pundit authorization, enabling users to effortlessly add and manage their watch collections.
+WatchConnoisseur is a compact API which I developed for a recruitment task at one of my target companies. It supports JWT authentication and Pundit authorization, enabling users to effortlessly add and manage their watch collections.
 
 ## Installation
 
